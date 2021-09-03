@@ -11,3 +11,11 @@ The more we use it, the we undertand it
 From maryville we have to travel to kansas from kansas we have to take a flight to doha again after landing in doha we have to take another flight from doha to hyderabad from hyderabad to airport we can reach the place by booking a taxi or by public transport with in 20-25 mins.
 
 ***
+* Reach a store
+* Start buying food items
+    * Cup cakes
+    * Soft drinks
+    * Chips
+    * Spicy indian snacks 
+    * Ice creams 
+* Water bottles
