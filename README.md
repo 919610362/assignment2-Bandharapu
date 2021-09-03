@@ -8,7 +8,13 @@ The more we use it, the we undertand it
 
 *** 
 
-From maryville we have to travel to kansas from kansas we have to take a flight to doha again after landing in doha we have to take another flight from doha to hyderabad from hyderabad to airport we can reach the place by booking a taxi or by public transport with in 20-25 mins.
+Direction from maryville to fav location
+1. From maryville to kansas city
+    1. Kansas city to airport
+2. Kansas airport to doha airport
+3. Doha airport to hyderabad
+4. Hyderabad airport to lbnagar
+    1. By cab or public transport
 
 ***
 * Reach a store
