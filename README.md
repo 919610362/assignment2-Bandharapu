@@ -47,8 +47,11 @@ We are preparing a table that shows the four food items and drinks which everyon
 
 Pithy Quotes
 > To accomplish great things, we must not only act, but also dream; not only plan, but also believe.
+
 *Anatole france*
+
 > Without ambition one starts nothing, without work one finishes nothing. The prize will not be sent to you, you have to win it.
+
 *Ralph waldo emerson*
 
 ***
