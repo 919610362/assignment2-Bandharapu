@@ -37,7 +37,7 @@ Representing a table for food/drinks
 We are preparing a table that shows the four food items and drinks which everyone should try that are going to be available at many locations.
 
 | Items | Location | Cost |
-| --- | --- | ---: |
+| :---: | :---: | :---: |
 | Cookies | Q Bakers | $2 |
 | Samosa | More store | $1.50 |
 | Sugarcane drink | Food on wheels | $1.00 |
