@@ -26,6 +26,6 @@ Direction from maryville to fav location
     * Ice creams 
 * Water bottles
 
-![Image for Repo](https://user-images.githubusercontent.com/89554539/132169228-267e9c6f-c100-473a-bb4a-25d3e392dbf4.jpg)
+![Image to the repo](C:\Users\S544908\Downloads\IMG_20190828_164720.jpg)
 
-https://github.com/919610362/assignment2-Bandharapu/blob/82dc2de26c4b116e60696f3a5e231b9809b3ddff/AboutMe.md
+
