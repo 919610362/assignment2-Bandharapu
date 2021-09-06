@@ -29,4 +29,4 @@ Direction from maryville to fav location
 
 ![Image](IMG_20190828_164720.jpg)
 
-**[ReadMe.md](AboutMe.md)**
+[Link AboutMe](https://github.com/919610362/assignment2-Bandharapu/blob/ad92f34d4f1d7a69ffe65a29c9fae3267bc6baf9/AboutMe.md)
