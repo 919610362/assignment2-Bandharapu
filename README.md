@@ -8,7 +8,7 @@ The more we use it, the we undertand it
 
 *** 
 
-Direction from maryville to fav location
+Direction from maryville to my favourite location
 1. From maryville to kansas city
     1. Kansas city to airport
 2. Kansas airport to doha airport
@@ -18,9 +18,9 @@ Direction from maryville to fav location
 
 * Reach a store
 * Start buying food items
-    * Soft drinks
-    * Spicy indian snacks 
-    * Ice creams 
+* Soft drinks
+* Spicy indian snacks 
+* Ice creams 
 * Water bottles
 * Cricket kit
 * Camera for capturing the beautiful locations
@@ -29,7 +29,7 @@ Direction from maryville to fav location
 
 ![Image](IMG_20190828_164720.jpg)
 
-[Link AboutMe](https://github.com/919610362/assignment2-Bandharapu/blob/ad92f34d4f1d7a69ffe65a29c9fae3267bc6baf9/AboutMe.md)
+[![Link AboutMe](https://github.com/919610362/assignment2-Bandharapu/blob/ad92f34d4f1d7a69ffe65a29c9fae3267bc6baf9/AboutMe.md)]
 
 ***
 
@@ -55,3 +55,12 @@ Pithy Quotes
 *Ralph waldo emerson*
 
 ***
+
+***
+
+Code Fencing
+
+> A spanning tree is a subset of Graph G, which has all the vertices covered with minimum possible number of edges. Hence, a spanning tree does not have cycles and it cannot be disconnected.
+
+[graph spanning](https://www.tutorialspoint.com/data_structures_algorithms/spanning_tree.htm)
+
