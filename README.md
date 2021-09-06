@@ -27,5 +27,4 @@ Direction from maryville to fav location
 * Water bottles
 
 
-![Image to the repo](C:\Users\S544908\Downloads\IMG_20190828_164720.jpg)
-
+![Image](C:\Users\S544908\Downloads/IMG_20190828_164720.jpg)
