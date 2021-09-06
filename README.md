@@ -26,4 +26,3 @@ Direction from maryville to fav location
     * Ice creams 
 * Water bottles
 
-![IMG_20190828_164720](https://user-images.githubusercontent.com/89554539/132165377-d312da48-8b2a-45ea-b610-fafe5d29e75a.jpg)
