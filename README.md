@@ -8,7 +8,7 @@ The more we use it, the we undertand it
 
 *** 
 
-Direction from maryville to my favourite location
+### Direction from maryville to my favourite location
 1. From maryville to kansas city
     1. Kansas city to airport
 1. Kansas airport to doha airport
@@ -32,7 +32,7 @@ Direction from maryville to my favourite location
 
 ***
 
-Representing a table for food/drinks
+### Representing a table for food/drinks
 
 We are preparing a table that shows the four food items and drinks which everyone should try that are going to be available at many locations.
 | Items | Location | Cost |
@@ -44,7 +44,7 @@ We are preparing a table that shows the four food items and drinks which everyon
 
 ***
 
-Pithy Quotes
+### Pithy Quotes
 > To accomplish great things, we must not only act, but also dream; not only plan, but also believe - *Anatole france*
 
 > Without ambition one starts nothing, without work one finishes nothing. The prize will not be sent to you, you have to win it - *Ralph waldo emerson*
@@ -53,7 +53,7 @@ Pithy Quotes
 
 ***
 
-Code Fencing
+### Code Fencing
 
 > A spanning tree is a subset of Graph G, which has all the vertices covered with minimum possible number of edges. Hence, a spanning tree does not have cycles and it cannot be disconnected.
 
