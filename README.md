@@ -11,23 +11,22 @@ The more we use it, the we undertand it
 Direction from maryville to my favourite location
 1. From maryville to kansas city
     1. Kansas city to airport
-2. Kansas airport to doha airport
-3. Doha airport to hyderabad
-4. Hyderabad airport to lbnagar
+1. Kansas airport to doha airport
+1. Doha airport to hyderabad 
+1. Hyderabad airport to lbnagar
     1. By cab or public transport
 
-* Reach a store
-* Start buying food items
+* Sweets
 * Soft drinks
 * Spicy indian snacks 
 * Ice creams 
 * Water bottles
-* Cricket kit
+* Sports equipments
 * Camera for capturing the beautiful locations
 
 ***
 
-![Image](IMG_20190828_164720.jpg)
+![Adding an image for the repo](Image.jpg)
 
 [![Link AboutMe](https://github.com/919610362/assignment2-Bandharapu/blob/ad92f34d4f1d7a69ffe65a29c9fae3267bc6baf9/AboutMe.md)]
 
