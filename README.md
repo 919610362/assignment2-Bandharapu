@@ -43,3 +43,11 @@ We are preparing a table taht shows the food items and drinks which everyone sho
 | Faluda drink | Lassi Shop | $1.25 |
 
 
+***
+
+### Pithy Quotes
+
+> To accomplish great things, we must not only act , but also dream; not only plan, but also believe - *Anatole France*
+
+> Without ambition one starts nothing, without work one finishes nothing. The prize will not be sent to you, you have to win it - *Ralph Waldo Emerson*
+
