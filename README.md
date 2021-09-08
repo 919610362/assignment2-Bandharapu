@@ -99,3 +99,5 @@ We are preparing a table taht shows the food items and drinks which everyone sho
 
         cout << total_weight << endl;
     }
+
+[Code source](https://cp-algorithms.com/graph/mst_prim.html)
