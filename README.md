@@ -26,7 +26,7 @@ The more we use it, the we undertand it
 
 ***
 
-![Including an image for the repo](Image.jpg)
+![Including an image for the repo(Image.jpg)](https://github.com/919610362/assignment2-Bandharapu/blob/c4c281da1cc91faa9725943a2f97233fa4465ea6/AboutMe.md)
 
 [Navigate to the link for my AboutMe](https://github.com/919610362/assignment2-Bandharapu/blob/c4c281da1cc91faa9725943a2f97233fa4465ea6/AboutMe.md)
 
